@@ -1,0 +1,5 @@
+C:\Users\Artsem_Zhaldak\Desktop\dotnetbasics-master\Day3\Attributes\bin\Debug\Attributes.dll
+C:\Users\Artsem_Zhaldak\Desktop\dotnetbasics-master\Day3\Attributes\bin\Debug\Attributes.pdb
+C:\Users\Artsem_Zhaldak\Desktop\dotnetbasics-master\Day3\Attributes\obj\Debug\Attributes.dll
+C:\Users\Artsem_Zhaldak\Desktop\dotnetbasics-master\Day3\Attributes\obj\Debug\Attributes.pdb
+C:\Users\Artsem_Zhaldak\Desktop\dotnetbasics-master\Day3\Attributes\obj\Debug\Attributes.csprojResolveAssemblyReference.cache

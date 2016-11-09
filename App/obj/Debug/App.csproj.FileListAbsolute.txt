@@ -1,0 +1,8 @@
+C:\Users\Artsem_Zhaldak\Desktop\dotnetbasics-master\Day3\App\bin\Debug\App.exe.config
+C:\Users\Artsem_Zhaldak\Desktop\dotnetbasics-master\Day3\App\bin\Debug\App.exe
+C:\Users\Artsem_Zhaldak\Desktop\dotnetbasics-master\Day3\App\bin\Debug\App.pdb
+C:\Users\Artsem_Zhaldak\Desktop\dotnetbasics-master\Day3\App\bin\Debug\Attributes.dll
+C:\Users\Artsem_Zhaldak\Desktop\dotnetbasics-master\Day3\App\bin\Debug\Attributes.pdb
+C:\Users\Artsem_Zhaldak\Desktop\dotnetbasics-master\Day3\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Users\Artsem_Zhaldak\Desktop\dotnetbasics-master\Day3\App\obj\Debug\App.exe
+C:\Users\Artsem_Zhaldak\Desktop\dotnetbasics-master\Day3\App\obj\Debug\App.pdb
